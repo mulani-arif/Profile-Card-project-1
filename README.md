@@ -33,8 +33,8 @@ In this Project I made Profile Card from given skeleton HTML file. I created my 
 
 ### Links
 
-- Solution URL: [GitHUb Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [GitHUb Solution](https://github.com/mulani-arif/Profile-Card-project-1)
+- Live Site URL: [Live Site](https://mulani-arif.github.io/Profile-Card-project-1/)
 
 ## My process
 
@@ -96,7 +96,6 @@ I want to be perfect in it.
 
 ## Author
 
-- Website - [ARIF MULANI](https://www.your-site.com)
 - Frontend Mentor - [@mulani-arif](https://www.frontendmentor.io/profile/mulani-arif)
 - Twitter - [@array__if](https://www.twitter.com/array__if)
 - GitHub - [mulani-arif](https://github.com/mulani-arif)
