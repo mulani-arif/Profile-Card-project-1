@@ -38,7 +38,7 @@ In this Project I made Profile Card from given skeleton HTML file. I created my 
 
 ## My process
 
-First I connected the required links. In body I kept Body on relative positioning and two circular images in background on absolute positioning and created such a beautiful texture. Next I made a division (class name "middle"). First roughly made a rectangle and tried to align it in middle by changing its positions and then I added ![](images/bg-pattern-card.svg) and made all corners circular. Then added image of Ronaldo and a white circle slightly bigger than Ronalo's image and aligned it in such a way that it will give a beautiful backround to actual image.
+First I connected the required links. In body I kept Body on relative positioning and two circular images in background on absolute positioning and created such a beautiful texture. Next I made a division (class name "middle"). First roughly made a rectangle and tried to align it in middle by changing its positions and then I added Card Pattern and made all corners circular. Then added image of Ronaldo and a white circle slightly bigger than Ronalo's image and aligned it in such a way that it will give a beautiful backround to actual image.
    for dotted line you can check it from css file it is just some modification in horizontal line.
 
 ### Built with
