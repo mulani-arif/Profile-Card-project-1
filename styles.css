@@ -1,0 +1,134 @@
+body{
+  margin:0;
+  position: relative;
+  font-size: 18px;
+/*  background-image: url("https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?cs=srgb&dl=pexels-madison-inouye-1831234.jpg&fm=jpg");*/
+background-color: hsl(185, 75%, 39%);
+}
+
+.card
+{
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+ width:450px;
+ height:30%;
+}
+.middle
+{
+  border-radius: 25px;
+   width: 450px;
+   height: 600px;
+   position: relative;
+   margin: 200px auto;;
+   background-color: white;
+
+}
+
+.top-pattern
+{
+ position:absolute;
+ right:55%;
+ bottom: 40%;
+
+}
+.bottom-pattern
+{
+  position:absolute;
+  left:55%;
+  top:45%;
+
+}
+.pic
+{
+  height:150px;
+  width: 150px;
+  position: relative;
+  left:33.33%;
+  top:-75px;
+}
+.pic-back
+{
+  height: 170px;
+  width: 170px;
+  position: absolute;
+  left:31%;
+  top: 100px;
+}
+.name
+{
+  position: relative;
+  left:12%;
+  display: block;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight:700;
+  font-size: 30px;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 30%;
+  border-width: 5px;
+  color: #E9DAC1;
+}
+.country
+{
+  padding:10px;
+  font-family: 'Merriweather', serif;
+  position: relative;
+  left: 38.0%;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 2;
+  color:#7FBCD2;
+}
+.temp
+{
+  position: relative;
+  right: 12%;
+}
+p{
+  position: relative;
+  display: inline-block;
+  ;
+}
+.followers
+{
+  position: relative;
+  margin: 30px auto 0 auto;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight:700;
+ font-size: 30px;
+ left:20%;
+
+}
+.post
+{
+  position: relative;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight:700;
+  font-size: 30px;
+  left: 50%;
+
+}
+.f
+{
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  bottom: -40px;
+  left: -13%;
+}
+.p
+{
+  font-family: 'Montserrat', sans-serif;
+  position:relative;
+  bottom: -40px;
+  right:-17%;
+}
+.footer
+{
+  position: relative;
+  bottom: -10px;
+  left:270px;
+  color: #CFD2CF;
+}
